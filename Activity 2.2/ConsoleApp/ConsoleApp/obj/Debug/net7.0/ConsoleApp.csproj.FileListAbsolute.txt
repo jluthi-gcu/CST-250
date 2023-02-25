@@ -1,0 +1,15 @@
+C:\Users\Orcblood\OneDrive - Grand Canyon University\CST - 250\_Workspace\ConsoleApp\ConsoleApp\bin\Debug\net7.0\ConsoleApp.exe
+C:\Users\Orcblood\OneDrive - Grand Canyon University\CST - 250\_Workspace\ConsoleApp\ConsoleApp\bin\Debug\net7.0\ConsoleApp.deps.json
+C:\Users\Orcblood\OneDrive - Grand Canyon University\CST - 250\_Workspace\ConsoleApp\ConsoleApp\bin\Debug\net7.0\ConsoleApp.runtimeconfig.json
+C:\Users\Orcblood\OneDrive - Grand Canyon University\CST - 250\_Workspace\ConsoleApp\ConsoleApp\bin\Debug\net7.0\ConsoleApp.dll
+C:\Users\Orcblood\OneDrive - Grand Canyon University\CST - 250\_Workspace\ConsoleApp\ConsoleApp\bin\Debug\net7.0\ConsoleApp.pdb
+C:\Users\Orcblood\OneDrive - Grand Canyon University\CST - 250\_Workspace\ConsoleApp\ConsoleApp\obj\Debug\net7.0\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Orcblood\OneDrive - Grand Canyon University\CST - 250\_Workspace\ConsoleApp\ConsoleApp\obj\Debug\net7.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orcblood\OneDrive - Grand Canyon University\CST - 250\_Workspace\ConsoleApp\ConsoleApp\obj\Debug\net7.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Orcblood\OneDrive - Grand Canyon University\CST - 250\_Workspace\ConsoleApp\ConsoleApp\obj\Debug\net7.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\Orcblood\OneDrive - Grand Canyon University\CST - 250\_Workspace\ConsoleApp\ConsoleApp\obj\Debug\net7.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Orcblood\OneDrive - Grand Canyon University\CST - 250\_Workspace\ConsoleApp\ConsoleApp\obj\Debug\net7.0\ConsoleApp.dll
+C:\Users\Orcblood\OneDrive - Grand Canyon University\CST - 250\_Workspace\ConsoleApp\ConsoleApp\obj\Debug\net7.0\refint\ConsoleApp.dll
+C:\Users\Orcblood\OneDrive - Grand Canyon University\CST - 250\_Workspace\ConsoleApp\ConsoleApp\obj\Debug\net7.0\ConsoleApp.pdb
+C:\Users\Orcblood\OneDrive - Grand Canyon University\CST - 250\_Workspace\ConsoleApp\ConsoleApp\obj\Debug\net7.0\ConsoleApp.genruntimeconfig.cache
+C:\Users\Orcblood\OneDrive - Grand Canyon University\CST - 250\_Workspace\ConsoleApp\ConsoleApp\obj\Debug\net7.0\ref\ConsoleApp.dll
